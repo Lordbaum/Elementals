@@ -1,0 +1,13 @@
+
+ncsharpsquid:S101"MRename class 'drag' to match pascal case naming rules, consider using 'Drag'.(“‘Êˆøÿÿÿÿ
+tcsharpsquid:S3776/"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(™Ø—¿ÿÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ïæ›ïüÿÿÿÿ
+fcsharpsquid:S1104	"DMake this field 'private' and encapsulate it in a 'public' property.(Àëæıÿÿÿÿ
+acsharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(ÎêŸ¸
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ïş„
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(‡ôÒòøÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(óÒñ´ıÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÃŠŠàúÿÿÿÿ
+ycsharpsquid:S1450"WRemove the field 'firstpos' and declare it as a local variable in the relevant methods.(üè¼¿üÿÿÿÿ
+;csharpsquid:S125j"Remove this commented out code.(Ç½³¥

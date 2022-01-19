@@ -1,0 +1,19 @@
+
+tcsharpsquid:S3776/"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(®±®“üÿÿÿÿ
+Ccsharpsquid:S2933­" Make 'Attack_1_Hash' 'readonly'.(Ò‰†Šÿÿÿÿÿ
+acsharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(‰àåé
+gcsharpsquid:S1104ó"DMake this field 'private' and encapsulate it in a 'public' property.(ÉÂÉùÿÿÿÿ
+gcsharpsquid:S1104õ"DMake this field 'private' and encapsulate it in a 'public' property.(â­‡¬üÿÿÿÿ
+gcsharpsquid:S1104÷"DMake this field 'private' and encapsulate it in a 'public' property.(ÌæÊÚüÿÿÿÿ
+bcsharpsquid:S1104ù"DMake this field 'private' and encapsulate it in a 'public' property.(Üä¼Ã
+gcsharpsquid:S1104û"DMake this field 'private' and encapsulate it in a 'public' property.(·ÒÒÿÿÿÿÿ
+bcsharpsquid:S1104ı"DMake this field 'private' and encapsulate it in a 'public' property.(ûõ“
+ncsharpsquid:S1104î"DMake this field 'private' and encapsulate it in a 'public' property.(Ç¾²…ÿÿÿÿÿ8¤²£Ïæ/
+ncsharpsquid:S1104ğ"DMake this field 'private' and encapsulate it in a 'public' property.(ÕÀ¼İÿÿÿÿÿ8¤²£Ïæ/
+gcsharpsquid:S1104ó"DMake this field 'private' and encapsulate it in a 'public' property.(×“½ùÿÿÿÿ
+Qcsharpsquid:S1066>"/Merge this if statement with the enclosing one.(£ÛÍüÿÿÿÿ
+Lcsharpsquid:S1066y"/Merge this if statement with the enclosing one.(ŠÉˆ
+Rcsharpsquid:S1066Ğ"/Merge this if statement with the enclosing one.(©ñ˜ÿÿÿÿÿ
+csharpsquid:S2376"dProvide a getter for 'ExternalMovement' or replace the property with a 'SetExternalMovement' method.(Îšô
+<csharpsquid:S125¼"Remove this commented out code.(Ú°à¬

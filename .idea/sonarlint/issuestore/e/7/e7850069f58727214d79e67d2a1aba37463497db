@@ -1,0 +1,7 @@
+
+†csharpsquid:S101"kRename class 'constantorientation' to match pascal case naming rules, consider using 'Constantorientation'.(ü„î3
+tcsharpsquid:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(®±®“üÿÿÿÿ
+Ncsharpsquid:S3903"2Move 'constantorientation' into a named namespace.(ü„î3
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(²½Šôÿÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(—Àèó

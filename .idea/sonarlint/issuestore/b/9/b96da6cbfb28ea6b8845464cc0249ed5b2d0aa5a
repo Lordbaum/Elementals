@@ -1,0 +1,13 @@
+
+ycsharpsquid:S101"XRename class 'Fire_Basic' to match pascal case naming rules, consider using 'FireBasic'.(”ªŠ´ÿÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(‡¥›çøÿÿÿÿ
+fcsharpsquid:S1104	"DMake this field 'private' and encapsulate it in a 'public' property.(Û¹‰„ûÿÿÿÿ
+fcsharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(š½İÃüÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(˜åªŒ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ô‘—Õûÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(½Àà„
+Lcsharpsquid:S1066""/Merge this if statement with the enclosing one.(£Û‰ú
+csharpsquid:S1450"]Remove the field 'fireRayHolderL' and declare it as a local variable in the relevant methods.(Ş÷”şÿÿÿÿ
+csharpsquid:S1450"]Remove the field 'fireRayHolderR' and declare it as a local variable in the relevant methods.(Ş÷”şÿÿÿÿ
+csharpsquid:S1450"]Remove the field 'fireWallHolder' and declare it as a local variable in the relevant methods.(²Êéşÿÿÿÿ

@@ -1,0 +1,30 @@
+
+ucsharpsquid:S3776„"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(·Ç½ÿÿÿÿÿ
+–csharpsquid:S1186L"yAdd a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.(àäì
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(‡¶ö8ìÛíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(öŞ¾üÿÿÿÿ8 ìÛíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Šë«±ûÿÿÿÿ8¢ìÛíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(èâ…Êøÿÿÿÿ8¥ìÛíÕ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(·­Ë”8§ìÛíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(«ÌÓıÿÿÿÿ8©ìÛíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Å¦ÉÆûÿÿÿÿ8¬ìÛíÕ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ºæıÓ8®ìÛíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(†À âûÿÿÿÿ8°ìÛíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(•·ı¥ıÿÿÿÿ8²ìÛíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(—±¿òûÿÿÿÿ8µìÛíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(³µëäúÿÿÿÿ8·ìÛíÕ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ì¨õ¦8¹ìÛíÕ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¾…Ú8»ìÛíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(é ¼íşÿÿÿÿ8¾ìÛíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(…µ…£øÿÿÿÿ8ÀìÛíÕ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ŒãÊÖ8ÂìÛíÕ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(†Ğä…8ÅìÛíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(óâşÒıÿÿÿÿ8ÇìÛíÕ/
+mcsharpsquid:S1104 "DMake this field 'private' and encapsulate it in a 'public' property.(äÅ£—üÿÿÿÿ8ÉìÛíÕ/
+mcsharpsquid:S1104!"DMake this field 'private' and encapsulate it in a 'public' property.(›ûÅ¨úÿÿÿÿ8ÌìÛíÕ/
+hcsharpsquid:S1104""DMake this field 'private' and encapsulate it in a 'public' property.(¶à«¬8ÎìÛíÕ/
+gcsharpsquid:S1104#"DMake this field 'private' and encapsulate it in a 'public' property.(·âğ~8ĞìÛíÕ/
+hcsharpsquid:S1104&"DMake this field 'private' and encapsulate it in a 'public' property.(«öß†8ÓìÛíÕ/
+hcsharpsquid:S1104("DMake this field 'private' and encapsulate it in a 'public' property.(¾’ˆÒ8Úİ¤Ïæ/
+pcsharpsquid:S14500"SRemove the field 'move' and declare it as a local variable in the relevant methods.(ïÕŠ
+Acsharpsquid:S125œ"Remove this commented out code.(ÒÌâ–øÿÿÿÿ

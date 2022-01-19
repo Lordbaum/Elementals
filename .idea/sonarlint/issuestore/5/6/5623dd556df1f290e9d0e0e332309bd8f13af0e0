@@ -1,0 +1,15 @@
+
+tcsharpsquid:S3776,"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(®±®“üÿÿÿÿ
+hcsharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(İÿÉÉ8¼ÓÚíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ï¾åùÿÿÿÿ8¿ÓÚíÕ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(•ƒç8ÁÓÚíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¸ò¯•úÿÿÿÿ8ÃÓÚíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ş–óÿıÿÿÿÿ8ÆÓÚíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(³÷¸ƒüÿÿÿÿ8ÈÓÚíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ìª¨âüÿÿÿÿ8ÊÓÚíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(É¢¼Ğüÿÿÿÿ8ÍÓÚíÕ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(·¬‰ğ8•™¤Ïæ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ÿ¿ùÿÿÿÿ8ÏÓÚíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.( ì¡£şÿÿÿÿ8ÑÓÚíÕ/
+_csharpsquid:S1751S";Refactor the containing loop to do more than one iteration.(§¼Éç8—™¤Ïæ/

@@ -1,0 +1,5 @@
+
+qcsharpsquid:S101"VRename class 'Fire_Ball' to match pascal case naming rules, consider using 'FireBall'.(ç×‘f
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(›ñÏ8¿ìÚíÕ/
+mcsharpsquid:S1104	"DMake this field 'private' and encapsulate it in a 'public' property.(Í›àúÿÿÿÿ8ÂìÚíÕ/
+Qcsharpsquid:S1066"/Merge this if statement with the enclosing one.(…µ“øÿÿÿÿ

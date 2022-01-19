@@ -1,0 +1,11 @@
+
+rcsharpsquid:S101"VRename class 'Air_Basic' to match pascal case naming rules, consider using 'AirBasic'.(íÆì¨
+mcsharpsquid:S1104	"DMake this field 'private' and encapsulate it in a 'public' property.(‡¥›çøÿÿÿÿ8²í¤Ïæ/
+gcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(…ÖÂ8²í¤Ïæ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(é¹ùØùÿÿÿÿ8²í¤Ïæ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÁÅ™÷üÿÿÿÿ8²í¤Ïæ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(™¤ç­øÿÿÿÿ8³í¤Ïæ/
+gcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Œ‹¦z8³í¤Ïæ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ìêé“ùÿÿÿÿ8³í¤Ïæ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(†ÇëĞşÿÿÿÿ8³í¤Ïæ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¢Óßùÿÿÿÿ8´í¤Ïæ/

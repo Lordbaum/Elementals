@@ -1,0 +1,19 @@
+
+tcsharpsquid:S3776$"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(é¼”²şÿÿÿÿ
+@csharpsquid:S2933"#Make 'sprintmultiplier' 'readonly'.(Ù”ñ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¬ÊŸ˜üÿÿÿÿ
+fcsharpsquid:S1104	"DMake this field 'private' and encapsulate it in a 'public' property.(¯Õ‰‚ùÿÿÿÿ
+acsharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(—Ç˜Ø
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÕşĞÒüÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ğ·ÿ
+`csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¯Ô’6
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(•·ı¥ıÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(—±¿òûÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(òğç‹ÿÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(‹ÂÎëùÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(é ¼íşÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(…µ…£øÿÿÿÿ
+Vcsharpsquid:S3459"4Remove unassigned field 'dashing', or set its value.(è¤‡Úúÿÿÿÿ
+{csharpsquid:S1450"YRemove the field 'isGrounded' and declare it as a local variable in the relevant methods.(£Ì× ûÿÿÿÿ
+:csharpsquid:S125f"Remove this commented out code.(Úª•+

@@ -1,0 +1,14 @@
+
+tcsharpsquid:S3776N"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(™Ø—¿ÿÿÿÿÿ
+Ycsharpsquid:S1854Ÿ";Remove this useless assignment to local variable 'hitInfo'.(­³áÖ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ºéÙùÿÿÿÿ
+`csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(íÕI
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ß»¯ûÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ú˜Ëİ
+fcsharpsquid:S1104!"DMake this field 'private' and encapsulate it in a 'public' property.(œÂ®èùÿÿÿÿ
+mcsharpsquid:S1104$"DMake this field 'private' and encapsulate it in a 'public' property.(Öƒ£êÿÿÿÿÿ8Œú¢Ïæ/
+fcsharpsquid:S1104'"DMake this field 'private' and encapsulate it in a 'public' property.(ŞÉÚÿÿÿÿÿ
+mcsharpsquid:S1104*"DMake this field 'private' and encapsulate it in a 'public' property.(èƒÏ—øÿÿÿÿ8ú¢Ïæ/
+Scsharpsquid:S1066l"/Merge this if statement with the enclosing one.(Ïû›8ú¢Ïæ/
+Rcsharpsquid:S1066o"/Merge this if statement with the enclosing one.(ê´ò]8ú¢Ïæ/
+Scsharpsquid:S1066Ë"/Merge this if statement with the enclosing one.(ê´ò]8ú¢Ïæ/

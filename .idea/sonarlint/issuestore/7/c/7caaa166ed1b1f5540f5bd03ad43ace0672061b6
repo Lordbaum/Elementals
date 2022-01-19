@@ -1,0 +1,11 @@
+
+›csharpsquid:S1186"yAdd a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.(ûàîºûÿÿÿÿ
+hcsharpsquid:S1104	"DMake this field 'private' and encapsulate it in a 'public' property.(îÉ†ê8¢Æ¤Ïæ/
+mcsharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(İ–—’ÿÿÿÿÿ8£Æ¤Ïæ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(î°Ğ8£Æ¤Ïæ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(÷’À£üÿÿÿÿ8¤Æ¤Ïæ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(‹ÂÎëùÿÿÿÿ8¤Æ¤Ïæ/
+gcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(‹¯¡G8¥Æ¤Ïæ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(˜ì£8¥Æ¤Ïæ/
+wcsharpsquid:S1450"URemove the field 'mouseY' and declare it as a local variable in the relevant methods.(Ğè•Ùıÿÿÿÿ

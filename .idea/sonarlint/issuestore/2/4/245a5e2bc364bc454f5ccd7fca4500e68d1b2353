@@ -1,0 +1,7 @@
+
+Rcsharpsquid:S3903")Move 'PlaySelect' into a named namespace.(øê±Üùÿÿÿÿ8›€ä‰Ì/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ÿ€±ˆùÿÿÿÿ8Ì¡ÛíÕ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(»ˆ©Ê8Î¡ÛíÕ/
+~csharpsquid:S2696"UMake the enclosing instance method 'static' or remove this set on the 'static' field.(Ùà×˜úÿÿÿÿ8€ä‰Ì/
+~csharpsquid:S2696"UMake the enclosing instance method 'static' or remove this set on the 'static' field.(¾¢Êøÿÿÿÿ8€ä‰Ì/
+ycsharpsquid:S2696"UMake the enclosing instance method 'static' or remove this set on the 'static' field.(úŠ´•8Ÿ€ä‰Ì/

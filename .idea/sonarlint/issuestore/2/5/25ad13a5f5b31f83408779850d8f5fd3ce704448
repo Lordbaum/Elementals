@@ -1,0 +1,19 @@
+
+†csharpsquid:S101"eRename class 'Camara_using_drag' to match pascal case naming rules, consider using 'Camarausingdrag'.(Æåíøÿÿÿÿ
+ocsharpsquid:S37767"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(„ï„ÿ
+Kcsharpsquid:S108™")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+gcsharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(œ¨8ÚÚíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Àëæıÿÿÿÿ8æ ¤Ïæ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÎêŸ¸8†ÚÚíÕ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ïû¸§8ˆÚÚíÕ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ß»ä8‹ÚÚíÕ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(­½”ò8ÚÚíÕ/
+gcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Æ»“Q8ÚÚíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(‚ÔİËûÿÿÿÿ8’ÚÚíÕ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(‰»¹€8”ÚÚíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(»ÿÆşşÿÿÿÿ8—ÚÚíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ù­Èñùÿÿÿÿ8™ÚÚíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÕŒáåüÿÿÿÿ8›ÚÚíÕ/
+Lcsharpsquid:S1066Y"/Merge this if statement with the enclosing one.(’Ú¸
+}csharpsquid:S1450)"[Remove the field 'selctedLevel' and declare it as a local variable in the relevant methods.(¦Ô‚õùÿÿÿÿ

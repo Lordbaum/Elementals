@@ -1,0 +1,16 @@
+
+{csharpsquid:S3776?"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Šìî³ùÿÿÿÿ8…ŽÛíÕ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¶ÀÙ•ûÿÿÿÿ8¼²¤Ïæ/
+hcsharpsquid:S1104	"DMake this field 'private' and encapsulate it in a 'public' property.(ÀŠèÌ8¼²¤Ïæ/
+mcsharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(ÔÒãÔúÿÿÿÿ8½²¤Ïæ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(­êÂ‹8¾²¤Ïæ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(§·é™8¾²¤Ïæ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(œ‚Ñé8¿²¤Ïæ/
+gcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¥„¦J8À²¤Ïæ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(‘€ß€ÿÿÿÿÿ8Á²¤Ïæ/
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(œñ¡Å8Â²¤Ïæ/
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(´ò¿¬þÿÿÿÿ8Ã²¤Ïæ/
+‡csharpsquid:S1450"^Remove the field 'averageVelocity' and declare it as a local variable in the relevant methods.(§ÜÁÌþÿÿÿÿ8¡ŽÛíÕ/
+|csharpsquid:S1450"ZRemove the field 'damageDealt' and declare it as a local variable in the relevant methods.(ÉÝÌ´üÿÿÿÿ
+`csharpsquid:S1751 ";Refactor the containing loop to do more than one iteration.(§¼Éç8£ŽÛíÕ/

@@ -1,0 +1,13 @@
+
+ocsharpsquid:S3776\"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(÷•İ³
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Á´´†ûÿÿÿÿ
+Qcsharpsquid:S1066k"/Merge this if statement with the enclosing one.(°´Òøşÿÿÿÿ
+Qcsharpsquid:S1066y"/Merge this if statement with the enclosing one.(°´Òøşÿÿÿÿ
+8csharpsquid:S3626-"Remove this redundant jump.(ûÁİ…
+8csharpsquid:S36264"Remove this redundant jump.(ûÁİ…
+8csharpsquid:S3626I"Remove this redundant jump.(ûÁİ…
+8csharpsquid:S3626Y"Remove this redundant jump.(ûÁİ…
+8csharpsquid:S3626"Remove this redundant jump.(ûÁİ…
+9csharpsquid:S3626Œ"Remove this redundant jump.(ûÁİ…
+9csharpsquid:S3626š"Remove this redundant jump.(ûÁİ…
+9csharpsquid:S3626¨"Remove this redundant jump.(ûÁİ…
